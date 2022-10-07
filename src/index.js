@@ -4,6 +4,7 @@ import reportWebVitals from './reportWebVitals';
 import './index.css';
 import Card from './Card';
 import { robots } from './robots';
+import 'tachyons';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
