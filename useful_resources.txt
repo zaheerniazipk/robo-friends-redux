@@ -7,3 +7,7 @@ Tachyons
 
 Sega Logo Font:
 https://www.cufonfonts.com/font/sega-logo-font
+
+
+JSON Placeholder RESTful API for fetching user data:
+https://jsonplaceholder.typicode.com/users
