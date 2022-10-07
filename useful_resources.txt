@@ -4,3 +4,6 @@ https://robohash.org/
 CSS Toolkit:
 Tachyons
 -> npm install tachyons@4.12.0
+
+Sega Logo Font:
+https://www.cufonfonts.com/font/sega-logo-font
