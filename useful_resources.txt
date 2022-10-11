@@ -11,3 +11,7 @@ https://www.cufonfonts.com/font/sega-logo-font
 
 JSON Placeholder RESTful API for fetching user data:
 https://jsonplaceholder.typicode.com/users
+
+React and Redux Packages Installation and Usage:
+-> redux
+-> react-redux
