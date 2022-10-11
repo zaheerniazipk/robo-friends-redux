@@ -15,4 +15,5 @@ https://jsonplaceholder.typicode.com/users
 React and Redux Packages Installation and Usage:
 -> redux
 -> react-redux
--> redux-logger
+-> redux-logger     (Middleware)
+-> redux-thunk      (Asynchronous Actions Middleware)
